@@ -7,7 +7,10 @@ This project presents an interactive Tableau dashboard analyzing Adidas $900M+ s
 
 <img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/fffb71a5-b4ad-4cba-88e5-1bc14e8fc03c" />
 
+## Story Telling 
+<img width="1650" height="973" alt="image" src="https://github.com/user-attachments/assets/5402847f-9125-4062-9c98-e46bcedb9c46" />
 
+The Product Performance Overview dashboard highlights that **Men’s Street Footwear** is the top-performing category, followed by **Men’s Athletic Footwear** and **Women’s Apparel**. Lower sales are observed in **Women’s Athletic Footwear** and **Men’s Apparel**, indicating potential areas for targeted marketing and promotional strategies to improve overall performance. The analysis helps identify strong revenue drivers and categories needing strategic attention.
 
 ## Objectives
 
